@@ -1,13 +1,13 @@
-Source: vx-repo-precise-unizar
+Source: vx-repo-unizar
 Section: utils
 Priority: extra
 Maintainer: Alberto Gacías <alberto@migasfree.org>
 Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
-Homepage: http://github.com/vitalinux
+Standards-Version: 3.9.7
+Homepage: http://github.com/vitalinux/vx-repo-unizar
 
-Package: vx-repo-precise-unizar
+Package: vx-repo-unizar
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}
-Description: Install unizar repository mirror 
- Install unizar repository mirror for vitalinux systems
+Description: Install unizar repository mirror
+ Install unizar repository mirror for Vitalinux systems

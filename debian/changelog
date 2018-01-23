@@ -1,4 +1,11 @@
-vx-repo-precise-unizar (1.0-1) unstable; urgency=low
+vx-repo-unizar (1.1-1) unstable; urgency=low
+
+  * Changed package name (independent from ubuntu release).
+  * Changed repositories to Xenial.
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Tue, 23 Jan 2018 08:21:06 +0100
+
+vx-repo-unizar (1.0-1) unstable; urgency=low
 
   * First version
 

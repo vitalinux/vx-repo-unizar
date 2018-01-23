@@ -1,0 +1,7 @@
+deb http://softlibre.unizar.es/ubuntu/archive xenial main restricted
+deb http://softlibre.unizar.es/ubuntu/archive xenial-updates main restricted
+deb http://softlibre.unizar.es/ubuntu/archive xenial universe
+deb http://softlibre.unizar.es/ubuntu/archive xenial-updates universe
+deb http://softlibre.unizar.es/ubuntu/archive xenial multiverse
+deb http://softlibre.unizar.es/ubuntu/archive xenial-updates multiverse
+deb http://softlibre.unizar.es/ubuntu/archive xenial-security restricted main multiverse universe
